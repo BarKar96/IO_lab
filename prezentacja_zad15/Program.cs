@@ -11,10 +11,40 @@ using System.Threading.Tasks;
 
 namespace prezentacja_zad15
 {
-
+    class ClientAndMessage
+    {
+        public string message;
+        public TcpClient client;
+        public ClientAndMessage(TcpClient client, string message)
+        {
+            this.message = message;
+            this.client = client;
+        }
+        public void show()
+        {
+            Console.WriteLine("Klient " /*+ client.LocalEndPoint*/ +" nadal wiadomosc: " + message);
+        }
+    }
+    class ServerLog
+    {
+        public List<ClientAndMessage> log_list;
+        public ServerLog()
+        {
+            log_list = new List<ClientAndMessage>();
+        }
+        public void showLogs()
+        {
+            foreach (ClientAndMessage cam in log_list)
+            {
+                cam.show();
+            }
+            Console.WriteLine();
+        }
+    }
     class Server
     {
-
+        private static Object thisLock = new Object();
+        ServerLog serverLog;
         TcpListener server;
         int port;
         IPAddress address;
@@ -25,6 +55,7 @@ namespace prezentacja_zad15
         {
             address = IPAddress.Any;
             port = 2048;
+            serverLog = new ServerLog();
         }
 
         public async Task RunAsync(CancellationToken ct)
@@ -58,6 +89,12 @@ namespace prezentacja_zad15
                                 try
                                 {
                                     i = await client.GetStream().ReadAsync(buffer, 0, buffer.Length, ct);
+                                    
+                                    lock (thisLock)
+                                    {
+                                        string mess = Encoding.UTF8.GetString(buffer, 0, i);
+                                        serverLog.log_list.Add(new ClientAndMessage(client, mess));
+                                    }
                                 }
                                 catch
                                 {
@@ -82,6 +119,10 @@ namespace prezentacja_zad15
             //Closes the listener.
             server.Stop();
             Console.WriteLine("Server - stop");
+        }
+        public ServerLog getServerLog()
+        {
+            return serverLog;
         }
 
     }
@@ -120,7 +161,7 @@ namespace prezentacja_zad15
             }
             return messages;
         }
-
+     
         static void Main(string[] args)
         {
             Server s = new Server();
@@ -152,8 +193,9 @@ namespace prezentacja_zad15
 
 
             Task.WaitAll(tasks.ToArray());
-
-
+            Console.WriteLine("----------Logi Servera----------");
+            ServerLog serverlog = s.getServerLog();
+            serverlog.showLogs();
             s.Stop();
             Console.WriteLine("koniec main");
         }

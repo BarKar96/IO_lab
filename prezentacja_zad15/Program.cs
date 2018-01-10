@@ -137,7 +137,18 @@ namespace prezentacja_zad15
             Console.WriteLine("Client - connected");
 
         }
+        //public async Task<bool> Ping()
+        //{
+        //    Console.WriteLine("Client - pinguje");
+        //    bool pinging = false;
+        //    Ping isPing = new Ping();
+        //    PingReply reply = isPing.Send(IPAddress.Parse("127.0.0.1"));
+        //    Thread.Sleep(1000);
+        //    pinging = reply.Status == IPStatus.Success;
+        //    return pinging;
+        //}
 
+       
         public async Task<string> Ping()
         {
             Console.WriteLine("Client - ping");
@@ -148,7 +159,18 @@ namespace prezentacja_zad15
             var t = await client.GetStream().ReadAsync(buffer, 0, buffer.Length);
             return Encoding.UTF8.GetString(buffer, 0, t);
         }
-
+        //public async Task<List<bool>> keepPinging(CancellationToken token)
+        //{
+        //    List<bool> mes = new List<bool>();
+        //    bool done = false;
+        //    while (!done)
+        //    {
+        //        if (token.IsCancellationRequested)
+        //            done = true;
+        //        mes.Add(await Ping());
+        //    }
+        //    return mes;
+        //}
         public async Task<IEnumerable<string>> keepPinging(CancellationToken token)
         {
             List<string> messages = new List<string>();

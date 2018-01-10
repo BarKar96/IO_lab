@@ -1,0 +1,13 @@
+C:\Users\Bartek\Desktop\zad1-bk\zad7\bin\Debug\zad7.exe.config
+C:\Users\Bartek\Desktop\zad1-bk\zad7\bin\Debug\zad7.exe
+C:\Users\Bartek\Desktop\zad1-bk\zad7\bin\Debug\zad7.pdb
+C:\Users\Bartek\Desktop\zad1-bk\zad7\obj\Debug\zad7.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\zad1-bk\zad7\obj\Debug\zad7.exe
+C:\Users\Bartek\Desktop\zad1-bk\zad7\obj\Debug\zad7.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad7\bin\Debug\zad7.exe.config
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad7\bin\Debug\zad7.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad7\bin\Debug\zad7.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad7\obj\Debug\zad7.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad7\obj\Debug\zad7.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad7\obj\Debug\zad7.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad7\obj\Debug\zad7.pdb

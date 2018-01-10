@@ -1,0 +1,6 @@
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad1\bin\Debug\zad1.exe.config
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad1\bin\Debug\zad1.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad1\bin\Debug\zad1.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad1\obj\Debug\zad1.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad1\obj\Debug\zad1.pdb

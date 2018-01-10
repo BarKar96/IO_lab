@@ -1,0 +1,7 @@
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad12\obj\Debug\prezentacja_zad12.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad12\obj\Debug\prezentacja_zad12.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad12\bin\Debug\prezentacja_zad12.exe.config
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad12\bin\Debug\prezentacja_zad12.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad12\bin\Debug\prezentacja_zad12.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad12\obj\Debug\prezentacja_zad12.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad12\obj\Debug\prezentacja_zad12.pdb

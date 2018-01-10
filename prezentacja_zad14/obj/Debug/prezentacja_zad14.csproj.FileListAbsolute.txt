@@ -1,0 +1,6 @@
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad14\bin\Debug\prezentacja_zad14.exe.config
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad14\bin\Debug\prezentacja_zad14.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad14\bin\Debug\prezentacja_zad14.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad14\obj\Debug\prezentacja_zad14.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad14\obj\Debug\prezentacja_zad14.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad14\obj\Debug\prezentacja_zad14.pdb

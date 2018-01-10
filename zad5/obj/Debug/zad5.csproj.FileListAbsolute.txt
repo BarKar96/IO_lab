@@ -1,0 +1,14 @@
+C:\Users\Bartek\Desktop\zad1-bk\zad5\bin\Debug\zad5.exe.config
+C:\Users\Bartek\Desktop\zad1-bk\zad5\bin\Debug\zad5.exe
+C:\Users\Bartek\Desktop\zad1-bk\zad5\bin\Debug\zad5.pdb
+C:\Users\Bartek\Desktop\zad1-bk\zad5\obj\Debug\zad5.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\zad1-bk\zad5\obj\Debug\zad5.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\zad1-bk\zad5\obj\Debug\zad5.exe
+C:\Users\Bartek\Desktop\zad1-bk\zad5\obj\Debug\zad5.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad5\bin\Debug\zad5.exe.config
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad5\bin\Debug\zad5.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad5\bin\Debug\zad5.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad5\obj\Debug\zad5.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad5\obj\Debug\zad5.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad5\obj\Debug\zad5.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad5\obj\Debug\zad5.pdb

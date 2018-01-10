@@ -1,0 +1,7 @@
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad15\bin\Debug\prezentacja_zad15.exe.config
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad15\bin\Debug\prezentacja_zad15.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad15\bin\Debug\prezentacja_zad15.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad15\obj\Debug\prezentacja_zad15.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad15\obj\Debug\prezentacja_zad15.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad15\obj\Debug\prezentacja_zad15.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\prezentacja_zad15\obj\Debug\prezentacja_zad15.pdb

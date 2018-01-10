@@ -1,0 +1,6 @@
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad3\bin\Debug\zad3.exe.config
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad3\bin\Debug\zad3.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad3\bin\Debug\zad3.pdb
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad3\obj\Debug\zad3.exe
+C:\Users\Bartek\Desktop\IO\zad1-bk\zad3\obj\Debug\zad3.pdb
